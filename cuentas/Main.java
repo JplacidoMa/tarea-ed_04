@@ -6,7 +6,7 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
         
-        
+        //comentario para probar cambios de version al hacer commit
 
         cuenta1 = new CCuenta("Antonio López","1000-2365-85-1230456789",2500,0);
         saldoActual = cuenta1.estado();
